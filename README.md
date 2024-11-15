@@ -1,5 +1,7 @@
 # Arcadia
 
+```Visit https://github.com/ericliu-12/hacktx24 for full commit history.```
+
 Bringing retro arcade games to life with computer vision.
 
 ## Inspiration
